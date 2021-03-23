@@ -65,12 +65,17 @@ header {
     float: left;
     margin-left: -30px;
     list-style-type: none;    
-    padding: 10px;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
     background-color: #D9A3CA;
     color: white;
-    border-radius: 10px;
+    border-radius: 3px;
     font-weight: lighter;
-    margin-top: -20px;
+    margin-top: -10px;
+    font-size: 14px;
+    text-align: center;
+    width: 100px;
 }
 
 .li3 {
@@ -78,20 +83,20 @@ header {
     display: inline-block;
     list-style-type: none;
     margin: 10px;
-    padding: 10px;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
     background-color: #D9A3CA;
     color: white;
-    border-radius: 10px;
+    border-radius: 3px;
     font-weight: lighter;
-    margin-top: -20px;
+    margin-top: -10px;
+    font-size: 14px;
+    text-align: center;
+    width: 100px;
 }
+ 
 
-.li4{
-    
-   /* text-align: center;*/
-    
-    
-}
 
 footer {
     font-size: 12px;
@@ -99,7 +104,7 @@ footer {
     display: inline-block;
     background-color: #8C0368;
     padding: 30px;
-    margin-top: -15px;
+    margin-top: 100px;
     margin-left: -8px;
     margin-bottom: -8px;
     width: 1166px;
@@ -199,11 +204,12 @@ footer {
 .card_alunas {
     background-color: white;
     margin: 40px 15px 40px 5px;
+    margin-top: 80px;
     padding: 20px;
     font-size: 18px;
     color: #8C0368;
     font-weight: bold;
-    height: 300px;
+    height: 320px;
     border-radius: 5px;
     text-align: center;
 }
@@ -234,6 +240,15 @@ footer {
     border-radius: 10px;
 }
 
+.button3 {
+    background-color: #D9A3CA;
+    margin: 5px 5px 5px 5px;
+    padding: 5px;
+    font-size: 10px;
+    color: white;
+    border-radius: 3px;
+}
+
 .size {
     width: 150px;
     text-align: center;
@@ -262,4 +277,8 @@ a {
 
 .center{
     text-align: center;
+}
+
+.alunas{
+    color: #30d9c8;
 }
