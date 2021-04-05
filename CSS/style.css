@@ -78,6 +78,11 @@ header {
     width: 100px;
 }
 
+.li2:hover{
+    background-color:#a07794;
+    
+}
+
 .li3 {
     float: right;
     display: inline-block;
@@ -94,6 +99,10 @@ header {
     font-size: 14px;
     text-align: center;
     width: 100px;
+}
+
+.li3:hover{
+    background-color:#a07794;
 }
  
 
@@ -231,6 +240,10 @@ footer {
     border-radius: 10px;
 }
 
+.button:hover{
+    background-color: #a07794;
+}
+
 .button2 {
     background-color: #8C0368;
     margin: 5px 5px 5px 5px;
@@ -238,6 +251,10 @@ footer {
     font-size: 10px;
     color: white;
     border-radius: 10px;
+}
+
+.button2:hover{
+    background-color: #531c44;
 }
 
 .button3 {
@@ -281,4 +298,9 @@ a {
 
 .alunas{
     color: #30d9c8;
+
+}
+
+.alunas:hover{
+    color: #8c0368;
 }
