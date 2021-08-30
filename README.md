@@ -10,4 +10,5 @@
 📌Uma página para cada aluna, contando o motivo que escolhemos esse curso.<br>
 📌Como adicional colocamos a lista de alunos do curso, turma de 2021.
 
-![Uploading 20210830_184126.gif…]()
+![20210830_184126](https://user-images.githubusercontent.com/79329906/131409714-3967e8e6-8df3-4489-a666-32d45fe6b01d.gif)
+
