@@ -9,3 +9,5 @@
 📌Detalhes sobre o curso escolhido por nós (Desenvolvimento de sistemas).<br>
 📌Uma página para cada aluna, contando o motivo que escolhemos esse curso.<br>
 📌Como adicional colocamos a lista de alunos do curso, turma de 2021.
+
+![Uploading 20210830_184126.gif…]()
